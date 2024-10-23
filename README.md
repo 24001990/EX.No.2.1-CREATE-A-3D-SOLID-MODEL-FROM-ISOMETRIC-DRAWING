@@ -1,5 +1,5 @@
 # EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
-## Date:
+## Date:23-10-2024
 
 ## AIM
 To create a 3Dmodel from the given isometric drawing using fusion 360 tool. 
@@ -71,6 +71,9 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198495472-9a69edb1-f0c6-470c-b9ae-fe282fa6a678.png)
 
 ## OUTPUT
+![Screenshot 2024-10-23 141910](https://github.com/user-attachments/assets/c05947ff-be99-4176-9341-5dcb52552f1b)
+![Screenshot 2024-10-23 142052](https://github.com/user-attachments/assets/44d57304-5296-40e0-985a-6dbc3f82548b)
+
 
 ## RESULT: 
  Thus, the 3D model is created from given isometric drawing.
